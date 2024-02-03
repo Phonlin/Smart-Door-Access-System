@@ -12,3 +12,7 @@
 * 租戶可登入網站遠端開鎖
 * 利用紅外線感應門的開關狀態，並顯示於網站
 * Authentication、Realtime Database、Hosting
+
+架構圖
+----
+![](./架構圖.png)
